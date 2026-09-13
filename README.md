@@ -1,6 +1,8 @@
 # Hi, I'm Fiki Rivaldi 👋
 
-### Fullstack Developer | Web & Mobile
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Web+%26+Mobile+Developer;Building+Real-World+Applications" />
+</p>
 
 I’m an Informatics Engineering graduate with experience building and maintaining web applications in real-world environments.
 
