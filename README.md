@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Web+%26+Mobile+Developer;Building+Real-World+Applications" />
 </p>
 
-I’m an Informatics Engineering graduate with experience building and maintaining web applications in real-world environments.
+I’m an Informatics Engineering graduate who enjoys building web and mobile applications.
 
-My recent experience focuses on web development using PHP, CodeIgniter, Laravel, JavaScript, and MySQL. I also have a background in mobile application development using Flutter and Kotlin.
+My main focus is web development using PHP, CodeIgniter, Laravel, JavaScript, and MySQL. I also have a background in mobile application development using Flutter and Kotlin.
 
-I enjoy building applications, troubleshooting technical problems, and learning new technologies based on project needs.
+I enjoy building applications, solving technical problems, and exploring new technologies through projects.
 
 ---
 
@@ -43,19 +43,19 @@ I enjoy building applications, troubleshooting technical problems, and learning 
 
 ## 🚀 Featured Projects
 
-### 🏭 SNI Certification Service
+### SNI Certification Service
 
 Web-based certification service system developed for BBLM, Ministry of Industry.
 
 **Tech:** PHP · CodeIgniter · MySQL · JavaScript · Bootstrap
 
-### 🏛️ PPID BBLM
+### PPID BBLM
 
 Dynamic public information website with an admin panel for content management.
 
 **Tech:** CodeIgniter 4 · MySQL · JavaScript
 
-### 🏢 UMKM Company Profile Websites
+### UMKM Company Profile Websites
 
 Developed several dynamic company profile websites with admin-managed content.
 
