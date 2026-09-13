@@ -41,28 +41,6 @@ I enjoy building applications, solving technical problems, and exploring new tec
 
 ---
 
-## 🚀 Featured Projects
-
-### SNI Certification Service
-
-Web-based certification service system developed for BBLM, Ministry of Industry.
-
-**Tech:** PHP · CodeIgniter · MySQL · JavaScript · Bootstrap
-
-### PPID BBLM
-
-Dynamic public information website with an admin panel for content management.
-
-**Tech:** CodeIgniter 4 · MySQL · JavaScript
-
-### UMKM Company Profile Websites
-
-Developed several dynamic company profile websites with admin-managed content.
-
-**Tech:** Laravel · CodeIgniter · MySQL
-
----
-
 ## 🌐 Portfolio
 
 <p align="center">
